@@ -1,6 +1,6 @@
 #머신러닝 워크샵
 
-## 프로그래밍 기초 예제
+## [프로그래밍 기초 예제](https://github.com/inerplat/KAIST-elice/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88%20%EC%98%88%EC%A0%9C)
 
 >###1. [Elice에서 Python을 실행하기](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88%20%EC%98%88%EC%A0%9C/1.%20Elice%EC%97%90%EC%84%9C%20Python%EC%9D%84%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.py)
 * Elice 홈페이지에서 프로그래밍을 하는 방식을 알 수 있습니다.
@@ -13,7 +13,7 @@
 * Python에서의 데이터 입출력에 대해 학습할 수 있습니다.
 * 입력, 출력 과정을 통해 10진수를 16진수로 변환하여 출력하는 함수를 작성하는 예제가 준비되어 있습니다.
 
-# PYTHON 기초 자료구조
+## [PYTHON 기초 자료구조](https://github.com/inerplat/KAIST-elice/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/2.%20PYTHON%20%EA%B8%B0%EC%B4%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 
 >###1. [함수(Function)](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/2.%20PYTHON%20%EA%B8%B0%EC%B4%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/1.%20%ED%95%A8%EC%88%98(Function).py)
  * 함수의 역할과 Python에서 함수의 문법에 대해 학습합니다.
