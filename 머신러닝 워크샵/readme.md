@@ -1,6 +1,6 @@
 #머신러닝 워크샵
 
- ## 프로그래밍 기초 예제
+## 프로그래밍 기초 예제
 
 >###1. [Elice에서 Python을 실행하기](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88%20%EC%98%88%EC%A0%9C/1.%20Elice%EC%97%90%EC%84%9C%20Python%EC%9D%84%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.py)
 * Elice 홈페이지에서 프로그래밍을 하는 방식을 알 수 있습니다.
