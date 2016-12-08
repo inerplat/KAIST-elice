@@ -1,6 +1,7 @@
 #머신러닝 워크샵
 
 제작자 : DH Kim
+
 채점 프로그램 결과 100점이 나온 소스입니다. 참고용도로만 확인하세요.
 
 ## [프로그래밍 기초 예제](https://github.com/inerplat/KAIST-elice/tree/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88%20%EC%98%88%EC%A0%9C)
