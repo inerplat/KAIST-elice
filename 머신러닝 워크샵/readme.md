@@ -42,7 +42,13 @@
 * 분류(Classification)파트의 Bag ofWords와 (고급)likelihood에서 중요하게 사용됩니다.
 
 >###6. [조건문(Conditional Statements)](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/2.%20PYTHON%20%EA%B8%B0%EC%B4%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/6.%20%EC%A1%B0%EA%B1%B4%EB%AC%B8(Conditional%20Statements).py)
+* python에서 사용되는 조건문의 문법에 대해 학습합니다.
+* 조건문을 활용하여 데이터의 범위를 분류하는 예제가 준비되어 있습니다.
 
 >###7. [반복문(Loop)](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/2.%20PYTHON%20%EA%B8%B0%EC%B4%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/7.%20%EB%B0%98%EB%B3%B5%EB%AC%B8(Loop).py)
+* Python에서 사용되는 for, while반복문에 대하여 학습합니다.
+* 반복문을 이용하여 리스트의 문자열에 .lower()함수를 실행하는 예제가 준비되어 있습니다.
 
 >###8. [함수, 조건문, 반복문 설정하기](https://github.com/inerplat/KAIST-elice/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%EC%83%B5/2.%20PYTHON%20%EA%B8%B0%EC%B4%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/8.%20%ED%95%A8%EC%88%98%2C%20%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%20%EB%B0%98%EB%B3%B5%EB%AC%B8%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.py)
+* 지금까지 배운 함수, 조건문, 반복문을 활용하는 예제가 준비되어 있습니다.
+
