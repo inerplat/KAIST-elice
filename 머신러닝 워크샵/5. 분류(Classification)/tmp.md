@@ -1,7 +1,7 @@
 <div class="material-exercise-readme-content" content="이제 직접 Naive Bayes Classifier 를 구현해 보겠습니다. 여러 개의 이미 트레이닝된 모델이 있을 때, 주어진 텍스트가 어떤 모델에 더 적합한지 판정 (classify) 하는 방법론을 코딩을 통해 구현해보겠습니다. 우리에게 사탕을 뽑아주는 기계 두 개가 있다고 합시다.
 
-* 첫 번째 기계 $(M_1)$: $\{\theta_{red} = 0.7, \theta_{green} = 0.2, \theta_{blue} = 0.1\}$
-* 두 번째 기계 $(M_2)$: $\{\theta_{red} = 0.3, \theta_{green} = 0.4, \theta_{blue} = 0.3\}$
+* 첫 번째 기계 $M_1$: $\{\theta_{red} = 0.7, \theta_{green} = 0.2, \theta_{blue} = 0.1\}$
+* 두 번째 기계 $M_2$: $\{\theta_{red} = 0.3, \theta_{green} = 0.4, \theta_{blue} = 0.3\}$
 
 그리고 우리에게 첫 번째인지 두 번째 기계에서 뽑았을지는 모르지만, 다음과 같은 10개의 사탕들이 있다고 합시다.
 
